@@ -1,1 +1,290 @@
 .DS_Store
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/Alvas.Audio.chm
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioCs2005.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioCs2008.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioCs2010.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioVb2005.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioVb2008.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AlvasAudioVb2010.sln
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsCs/AudioConsCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsCs/AudioConsCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsCs/AudioConsCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/AudioConsVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/AudioConsVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/AudioConsVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioConsVb/Program.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/AudioCS.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/AudioCS2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/AudioCS2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioCS/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/AudioExCS.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/AudioExCS2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/AudioExCS2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/ConvertPanel.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/ConvertPanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/Dictaphone.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/DictaphonePanel.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/DictaphonePanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/DictaphoneState.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/DictaphoneStateEventArgs.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/frmMain.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/frmMain.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/PositionEventArgs.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/VoxPanel.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExCS/VoxPanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/AudioExVB.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/AudioExVB2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/AudioExVB2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/ConvertPanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/ConvertPanel.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/Dictaphone.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/DictaphonePanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/DictaphonePanel.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/DictaphoneState.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/DictaphoneStateEventArgs.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/frmMain.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/frmMain.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/PositionEventArgs.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/VoxPanel.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioExVB/VoxPanel.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/AudioFileInfoCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/AudioFileInfoCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/AudioFileInfoCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/MainForm.designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoCs/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/AudioFileInfoVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/AudioFileInfoVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/AudioFileInfoVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioFileInfoVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/AudioVB.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/AudioVB2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/AudioVB2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioVB/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/AudioService.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/AudioService.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/AudioWindowsServiceCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/AudioWindowsServiceCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/AudioWindowsServiceCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/WindowsServiceInstaller.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceCs/WindowsServiceInstaller.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/AudioService.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/AudioService.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/AudioWindowsServiceVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/AudioWindowsServiceVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/AudioWindowsServiceVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/WindowsServiceInstaller.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/AudioWindowsServiceVb/WindowsServiceInstaller.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/Alvas.Audio.dll
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/Alvas.Audio.xml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/AudioConsCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/AudioCS.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/AudioExCS.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/AudioFileInfoCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/AudioWindowsServiceCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/CdaCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/EffectsCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/RecordPlay.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/SoxConvertCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/WaveformVisualizerCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/bin/WpfCs.exe
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/CdaCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/CdaCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/CdaCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaCs/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/CdaVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/CdaVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/CdaVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/CdaVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/EffectsCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/EffectsCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/EffectsCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/MainForm.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsCs/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/EffectsVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/EffectsVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/EffectsVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EffectsVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/EULA.md
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/main.css
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/Readme.md
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/FormatDialog.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/FormatDialog.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/FormatDialog.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Ico16.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/MainForm.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/RecordPlay.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/RecordPlay2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlay/RecordPlay2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/FormatDialog.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/FormatDialog.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/FormatDialog.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/Program.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/RecordPlayVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/RecordPlayVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/RecordPlayVb/RecordPlayVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/MainForm.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/SoxConvertCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/SoxConvertCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertCs/SoxConvertCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/SoxConvertVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/SoxConvertVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/SoxConvertVb/SoxConvertVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/Tips.html
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Alvas.Audio.xml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/MainForm.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/MainForm.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Program.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/WaveformVisualizerCs.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/WaveformVisualizerCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerCs/WaveformVisualizerCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/MainForm.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/MainForm.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/MainForm.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Application.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Application.myapp
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/WaveformVisualizerVb.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/WaveformVisualizerVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WaveformVisualizerVb/WaveformVisualizerVb2010.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/App.xaml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/App.xaml.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Properties/AssemblyInfo.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Properties/Resources.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Properties/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Properties/Settings.Designer.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Properties/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Window1.xaml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/Window1.xaml.cs
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/WpfCs2008.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfCs/WpfCs2010.csproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/App.ico
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/Application.xaml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/Application.xaml.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/AssemblyInfo.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/MyExtensions/MyWpfExtension.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/Resources.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/Resources.resx
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/Settings.Designer.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/My Project/Settings.settings
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/Window1.xaml
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/Window1.xaml.vb
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/WpfVb2008.vbproj
+Lab - Decompiling/Alvas.Audio/Alvas.Audio/WpfVb/WpfVb2010.vbproj
